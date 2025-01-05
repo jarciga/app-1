@@ -2,4 +2,4 @@
 Add a web seal to a website or webpage by subscribing.
 
 ### Technologies:
-Wordpress, PHP, HTML, JS/JQuery, Payment processor API.
+Wordpress, PHP/MySQL, HTML, JS/JQuery, Payment processor API.
