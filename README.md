@@ -1,4 +1,4 @@
-# app-1
+# App-1
 Add a web seal to a website or webpage by subscribing.
 
 ### Technologies:
