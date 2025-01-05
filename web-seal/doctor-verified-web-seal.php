@@ -13,8 +13,8 @@ $domain_params = explode('_', $_GET["master_id"]);
 $user_id = (int) trim($domain_params[0]);
 $domain_id = (int) trim($domain_params[1]);
 
-$conn = mysqli_connect("localhost", "puremaca_nutrver", "FEW@wH6~zESk", "puremaca_nutritionist_verified"); // live
-//$conn = mysqli_connect("localhost", "root", "", "wpplugins"); // local
+$conn = mysqli_connect("localhost", "", "", ""); // live
+//$conn = mysqli_connect("localhost", "root", "", ""); // local
 
 // Check connection
 if (mysqli_connect_errno()) {	

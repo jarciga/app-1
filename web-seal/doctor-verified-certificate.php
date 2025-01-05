@@ -34,9 +34,9 @@ $user_id = (int) $_GET["master_id"];
 $domain_id = (int) $_GET["domain_id"];
 
 
-$conn = mysqli_connect("localhost", "puremaca_nutrver", "FEW@wH6~zESk", "puremaca_nutritionist_verified"); // live
+$conn = mysqli_connect("localhost", "", "", ""); // live
 
-//$conn = mysqli_connect("localhost", "root", "", "wpplugins"); // local
+//$conn = mysqli_connect("localhost", "", "", ""); // local
 
 // Check connection
 

@@ -48,7 +48,7 @@ function doctor_verified_stripe_process_payment() {
 			require_once ABSPATH.'wp-content/plugins/optimizeMember/optimizeMember-pro/includes/classes/gateways/stripe/stripe-sdk/lib/Stripe.php';
 			//C:\wamp\www\wpdoctorsverified\wp-content\plugins\optimizeMember\optimizeMember-pro\includes\classes\gateways\stripe\stripe-sdk\lib\Stripe
 
-			Stripe::setApiKey('sk_test_XqQdQBT9MaHLUBaRnNt2SXbl');
+			Stripe::setApiKey('');
 			Stripe::setApiVersion('2015-02-18');
 		}
 
@@ -404,7 +404,7 @@ function doctor_verified_process_card_update() {
 			require_once ABSPATH.'wp-content/plugins/optimizeMember/optimizeMember-pro/includes/classes/gateways/stripe/stripe-sdk/lib/Stripe.php';
 			//C:\wamp\www\wpdoctorsverified\wp-content\plugins\optimizeMember\optimizeMember-pro\includes\classes\gateways\stripe\stripe-sdk\lib\Stripe
 
-			Stripe::setApiKey('sk_test_XqQdQBT9MaHLUBaRnNt2SXbl');
+			Stripe::setApiKey('');
 			Stripe::setApiVersion('2015-02-18');
 		}		
 

@@ -18,7 +18,7 @@ include_once $path . '/wp-includes/user.php';
     echo "wala.<br />\n";
 }*/
 //$_REQUEST['txtEmailID'])
-//$_POST['txtEmailID'] = 'jayar.asrciga.jr@gmail.com';
+//$_POST['txtEmailID'] = '';
 if( isset($_REQUEST['txtEmailID']) ) {
 	if( email_exists($_REQUEST['txtEmailID'])){
 	    //$response = json_encode('Already registered');
