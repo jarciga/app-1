@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+/* FORM VALIDATION */
+.has-error input {
+  border-width: 2px;
+}
+
+.validation.text-danger:after {
+  content: 'Validation failed';
+}
+
+.validation.text-success:after {
+  content: 'Validation passed';
+}

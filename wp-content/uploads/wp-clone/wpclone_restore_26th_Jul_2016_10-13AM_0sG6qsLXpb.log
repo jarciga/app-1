@@ -1,0 +1,23 @@
+Tuesday, 26-Jul-2016 10:13:45 - restore started
+Tuesday, 26-Jul-2016 10:13:45 - wp version     : 4.5.3
+Tuesday, 26-Jul-2016 10:13:45 - php version    : 5.6.20
+Tuesday, 26-Jul-2016 10:13:45 - mysql version  : 5.6.30
+Tuesday, 26-Jul-2016 10:13:45 - memory limit   : 1024M
+Tuesday, 26-Jul-2016 10:13:45 - execution time : 600
+Tuesday, 26-Jul-2016 10:13:45 - mysql timeout  : 600
+Tuesday, 26-Jul-2016 10:13:45 - socket timeout : 600
+Tuesday, 26-Jul-2016 10:13:45 - file download started
+Tuesday, 26-Jul-2016 10:13:45 - download finished, filesize - 53.54 MB
+Tuesday, 26-Jul-2016 10:13:45 - extracting database using pclzip
+Tuesday, 26-Jul-2016 10:13:46 - database import started
+Tuesday, 26-Jul-2016 10:13:46 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1","siteurl","http://www.nutritionist-verified.com","yes")"
+Tuesday, 26-Jul-2016 10:13:47 - mysql query failed. error : 1065 Query was empty - query : ""
+Tuesday, 26-Jul-2016 10:13:47 - database import finished
+Tuesday, 26-Jul-2016 10:13:47 - search and replace started
+Tuesday, 26-Jul-2016 10:13:47 - there are 23 tables to scan
+Tuesday, 26-Jul-2016 10:13:47 - search and replace finished
+Tuesday, 26-Jul-2016 10:13:47 - extracting archive using pclzip
+Tuesday, 26-Jul-2016 10:13:50 - copying files..
+Tuesday, 26-Jul-2016 10:13:54 - deleting temp directory..
+Tuesday, 26-Jul-2016 10:13:56 - deleting downloaded zip file..
+Tuesday, 26-Jul-2016 10:13:56 - restore finished

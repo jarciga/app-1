@@ -1,0 +1,1 @@
+[10-Apr-2017 14:42:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/puremaca/public_html/111nutritionist-verified.com/wp-content/themes/optimizePressTheme/lib/framework.php on line 272
